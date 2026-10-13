@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.1 (2026-10-13)
+
+- EverythingCG: stream-games colour token
+
 ## 1.4.0 (2026-10-13)
 
 - EverythingCG app layer: ten stream colour tokens for the news legend
