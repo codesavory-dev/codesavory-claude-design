@@ -75,3 +75,12 @@ Decisions the owner and Claude settled while building Kickoff (web, iPhone, Mac,
 26. **Verify visually in both themes** before calling a design change done: headless Chrome screenshots (light and dark) for the web, simulator screenshots for iPhone, device install for the final check.
 27. **Tokens, not literals.** Change the language here, run `dl check`, `dl bump`, `dl sync`, then rebuild each project. Never hand-edit generated files.
 28. **Prose rules apply to UI copy too:** no em dashes, en dashes or double hyphens; sentence case; name the result on buttons.
+
+## EverythingCG (news and learning site)
+
+44. **A news and learning site can be playful.** The owner asked for it to be "more fun and approachable", with more images and character, different shaped rectangles, tighter packing and modern web principles (13 Oct 2026). This overrides rule 43 (premium means fewer parts) for EverythingCG only. Lasya stays minimal.
+45. **Pictures are generated, never borrowed.** Every story gets its own SVG drawn from a hash of its title, in a motif that belongs to its stream, with one accent seed dot as the signature. No publisher images are hotlinked or rehosted, so there are no third-party requests and no copyright questions.
+46. **One tile grid, many silhouettes.** A dense auto-fill grid with sized tiles (small, wide, tall, big) and a small family of corner shapes (leaf, tab, arch, pill, square), all from the radius tokens. Module tiles for Jobs, Startups, Foundations and others sit between stories, tinted from the tint tokens, which follow the theme.
+47. **A mascot carries the warmth.** Dot is the brand ring with a face and the seed on its gap. It appears in the hero, empty states, account and confirmation pages. It blinks and bobs, and stops under reduced motion.
+48. **The theme control is three icons, not a word.** System, light and dark as a segmented control, remembered on the device and synced when signed in. The default follows the device.
+49. **Sign-in is optional and says what it stores.** Email link, no password, one cookie only after sign-in, delete-account on the account page. The privacy page states the same facts.

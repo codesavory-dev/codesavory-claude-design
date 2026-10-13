@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0 (2026-10-13)
+
+- EverythingCG app layer: ten stream colour tokens for the news legend
+
 ## 1.3.7 (2026-10-10)
 
 - Parity rule: every feature ships on web, iPhone and Mac

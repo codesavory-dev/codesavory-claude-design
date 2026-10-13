@@ -79,6 +79,29 @@
     }
    ],
    "lock": "design.lock.json"
+  },
+  {
+   "name": "everythingcg",
+   "app": "everythingcg",
+   "path": "/Users/suriya_daxna/Devel/ClaudeAgents/cloud-projects/codesavory-everythingcg",
+   "targets": [
+    {
+     "type": "css",
+     "out": "src/design/tokens.css",
+     "options": {
+      "fontUrl": "/fonts/"
+     }
+    },
+    {
+     "type": "fonts",
+     "out": "public/fonts"
+    },
+    {
+     "type": "json",
+     "out": "design/resolved.json"
+    }
+   ],
+   "lock": "design/design.lock.json"
   }
  ]
 }

@@ -67,3 +67,5 @@ What the tiles share, and what we took:
 | Hands touching the object (pressing, turning, pouring) | Tactile motion: press depth, slow settle, a specular sweep. No bounces. |
 
 Do not copy: loud colour illustration (the Mario and typography tiles), busy overlays, phone-in-hand clips. They are in the feed but not the taste.
+
+- On EverythingCG (13 Oct 2026): "It's a good start, need more images and character, needs different shaped rectangulars, more tightly packed, use modern web principles. The top right theme isn't looking right... make it more fun and approachable." Also: a learning section in the style of scratchapixel.com, a Startups section for business news, and course and creator links, high-end only.
