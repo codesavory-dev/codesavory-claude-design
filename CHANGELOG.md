@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.2 (2026-10-13)
+
+- EverythingCG: softer stream colours
+
 ## 1.4.1 (2026-10-13)
 
 - EverythingCG: stream-games colour token

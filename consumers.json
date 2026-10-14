@@ -3,7 +3,7 @@
   {
    "name": "kickoff",
    "app": "kickoff",
-   "path": "~/Devel/ClaudeAgents/cloud-projects/Football-Tracking-Streaming",
+   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-kickoff",
    "targets": [
     {
      "type": "css",
@@ -29,7 +29,7 @@
   {
    "name": "kickoff-site",
    "app": "kickoff",
-   "path": "/Users/suriya_daxna/Devel/ClaudeAgents/cloud-projects/Football-Tracking-Streaming",
+   "path": "/Users/suriya_daxna/Devel/ClaudeAgents/codesavory/codesavory-kickoff",
    "targets": [
     {
      "type": "css",
@@ -45,7 +45,7 @@
   {
    "name": "codesavory-hub",
    "app": null,
-   "path": "~/Devel/ClaudeAgents/codesavory.dev-website",
+   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-hub",
    "targets": [
     {
      "type": "css",
@@ -64,7 +64,7 @@
   {
    "name": "lasya",
    "app": "lasya",
-   "path": "~/Devel/ClaudeAgents/cloud-projects/codesavory-mograph",
+   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-mograph",
    "targets": [
     {
      "type": "css",
@@ -83,7 +83,7 @@
   {
    "name": "everythingcg",
    "app": "everythingcg",
-   "path": "/Users/suriya_daxna/Devel/ClaudeAgents/cloud-projects/codesavory-everythingcg",
+   "path": "/Users/suriya_daxna/Devel/ClaudeAgents/codesavory/codesavory-everythingcg",
    "targets": [
     {
      "type": "css",
