@@ -20,3 +20,5 @@ Freshness. Each item carries a small dot that is the accent when the story is un
 - No tracking, no ads, no third-party scripts. Fonts and images are self-hosted. YouTube is a link, not an embed.
 - Affiliate links, when they exist, are labelled "paid link" next to the link, with a plain publisher link beside it.
 - Copy is terse. No em dashes, en dashes or double hyphens.
+- Wall notes come in one warm-gray paper family (paper, fog, stone, sand, clay) plus one ember wash. No pastels. Retired colours render as their monochrome kin.
+- Icon studio marks are monochrome by default; the ember tile is a tonal same-hue gradient, never multi-hue. Downloads carry only the mark.
