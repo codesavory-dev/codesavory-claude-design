@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.3 (2026-10-17)
+
+- Product learnings 56-58: EverythingCG icon studio rules, Kickoff page as model, phone home screen icon grammar
+- References: Apple fluid interfaces skill, Google Design and Material, iPhone and Instagram icon grammar
+
 ## 1.4.2 (2026-10-13)
 
 - EverythingCG: softer stream colours

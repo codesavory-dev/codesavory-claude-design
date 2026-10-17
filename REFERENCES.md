@@ -42,6 +42,9 @@ Everything the owner has pointed at as a design reference, in the order given. A
 | XK (London motion studio) and other mograph studios | https://www.stashmedia.tv/?p=67604 (launch article; the studio's own site was not checked) | The owner's opening brief for Lasya: "like XK studios and other mograph studios". Short non-literal name, the work leads, little chrome. London peers read for naming (ManvsMachine, Territory Studio, Golden Wolf, THE LINE) were Claude's research, not owner picks. |
 | Kickoff marketing site (kickoff.codesavory.dev) | https://kickoff.codesavory.dev (source: `site/` in the codesavory-kickoff repo) | Take the principles only: calm hierarchy, one accent, quiet world behind the content, plain honest copy. Do NOT take its page. It sells a subscription app; Lasya sells services and digital tools. A version that copied its recipe was rejected (10 Oct 2026). |
 | Houdini colour ramps | (screenshots, owner's machine) | Owner likes ramps with a bold flavour. Superseded by the monochrome plus ember direction. |
+| Apple fluid interfaces skill | https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md | WWDC distilled for the web: respond on press, interruptible spring motion, translucency as hierarchy, size-specific tracking, reduced motion fallbacks. Named by the owner for the EverythingCG icon studio (17 Oct 2026). |
+| Google Design and Material | https://design.google/ | Tonal colour from one seed, flat surfaces, geometric restraint. Named by the owner in the same session as above. |
+| iPhone app icons and the Instagram mark | (owner named, no URL) | Squircle tile, one flat glyph, at most one restrained gradient. The grammar for EverythingCG icon studio tiles (17 Oct 2026). |
 
 ## Where each shows up
 
