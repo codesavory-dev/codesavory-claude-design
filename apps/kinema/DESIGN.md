@@ -11,6 +11,8 @@ A spectral path tracer and directable physics in a browser tab. People drop in a
 - **The live render is the hero.** A WebGPU canvas on `canvas-ground` renders as soon as the page opens. Where WebGPU is missing, a prerendered video takes its place and one line says which browsers work.
 - **Rendered colour is content, not UI.** Spectral rainbows inside the canvas are the product's output. They never leak into buttons, text or surfaces.
 - **The accent is spent once:** on the one serif flourish in the headline (`serif`, `accent-text`), like Lasya. Buttons are `brand`. Nothing else on the landing page is ember.
+- **The render is a tool, not a video.** A deck of instrument controls sits under the canvas (angle, beam, dispersion, exposure, reset): mono uppercase labels, a hairline top, range inputs in `ink`, readouts in `ink-subtle`. Dragging the render aims the beam. Nothing in the deck is ember. (Owner, 22 Oct 2026: it should look like an actual tool and a web renderer running, not a static image or video.)
+- **The icon is the prism:** a white triangle on `canvas-ground`, the beam entering, the ember seed where the spectrum leaves. Products keep the seed and change what it marks.
 - **Instrument details from its own world:** the sample counter (spp) and frame number in Geist Mono or Doto on the canvas ground, small, never decorative.
 - **Few words.** A wordmark, one headline, one line, one button. "Coming soon" is allowed only with one next step (rule 32).
 
