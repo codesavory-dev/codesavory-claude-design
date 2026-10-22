@@ -71,3 +71,7 @@ Media tiles sit on `shadow-1`. No metal, leather or warm bands on Lasya yet: the
 - Do not borrow Kickoff's page: no ticker, no download pills, no "no ads, no tracking" slogan on the home page, no centred product pitch.
 - Do not publish placeholder products, handles or links.
 - Do not show the Mardini series, and do not write paragraphs where a line will do.
+
+## The mark (22 Oct 2026)
+
+`marks/lasya-mark.svg`: one ribbon unfurling from a tight turn into a wide sweep, the seed in its eye. Order inside, motion outside, which is the tagline drawn. It is a single 7.5 unit stroke with round caps on a 64 grid, so it extrudes cleanly into glass for Kinema's hero. In the header it sits at 22px before the LASYA wordmark in `currentColor`, replacing the bare seed dot; the seed now lives inside the mark. The favicon is the mark in `gray-50` on a `gray-950` rounded square, the same family as Kinema's prism icon. Designed by Claude at the owner's request ("I don't have a logo for Lasya, feel free to design").

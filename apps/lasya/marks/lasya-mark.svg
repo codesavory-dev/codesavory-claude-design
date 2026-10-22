@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Lasya: one ribbon unfurling from order into motion, the seed in its eye. -->
+  <path d="M9 40 C11 56 34 60 45 47 C55 35 46 17 33 19 C23 21 21 34 30 37" fill="none" stroke="currentColor" stroke-width="7.5" stroke-linecap="round"/>
+  <circle cx="35" cy="28" r="4" fill="#e2704a"/>
+</svg>
