@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.0 (2026-10-22)
+
+- Add the kinema app layer (canvas-ground, canvas-ink, canvas-ink-muted, content-wide) for Kinema, the Lasya studio's browser tool.
+
 ## 1.4.3 (2026-10-17)
 
 - Product learnings 56-58: EverythingCG icon studio rules, Kickoff page as model, phone home screen icon grammar

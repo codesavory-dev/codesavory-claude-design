@@ -102,6 +102,25 @@
     }
    ],
    "lock": "design/design.lock.json"
+  },
+  {
+   "name": "kinema",
+   "app": "kinema",
+   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-kinema",
+   "targets": [
+    {
+     "type": "css",
+     "out": "apps/web/public/tokens.css",
+     "options": {
+      "fontUrl": "/fonts/"
+     }
+    },
+    {
+     "type": "fonts",
+     "out": "apps/web/public/fonts"
+    }
+   ],
+   "lock": "design.lock.json"
   }
  ]
 }
