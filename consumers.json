@@ -64,7 +64,7 @@
   {
    "name": "lasya",
    "app": "lasya",
-   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-mograph",
+   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-mograph/codesavory-lasya",
    "targets": [
     {
      "type": "css",
@@ -106,7 +106,7 @@
   {
    "name": "kinema",
    "app": "kinema",
-   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-kinema",
+   "path": "~/Devel/ClaudeAgents/codesavory/codesavory-mograph/codesavory-kinema",
    "targets": [
     {
      "type": "css",
