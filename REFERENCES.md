@@ -14,7 +14,7 @@ Everything the owner has pointed at as a design reference, in the order given. A
 
 - On Lasya's home page (10 Oct 2026): "I want the work to be in the center of the page and move the 4 things to under it, something similar to Kickoff's products." Then, on seeing it: "It's taking up a lot of place!" The work is central but compact.
 - On naming (9 Oct 2026): questioned a food analogy ("why are we thinking about a food analogy?"), liked "order and chaos" as the idea, and chose **Lasya** over Laya, Avarta, SimGraph and Code vs Clay. Sanskrit and Japanese words for order and chaos were the preferred source.
-- Product direction (10 Oct 2026): a video the owner named as "what I want to build", an ecosystem where distribution channels feed services, products and apps, talent, games and a physical network, with cash flow funding the content. https://www.youtube.com/watch?v=Cj4TXpb6zzk. Notes and the mapping to Codesavory are in the codesavory-mograph repo, `inspiration/ecosystem-flywheel.md`.
+- Product direction (10 Oct 2026): a video the owner named as "what I want to build", an ecosystem where distribution channels feed services, products and apps, talent, games and a physical network, with cash flow funding the content. https://www.youtube.com/watch?v=Cj4TXpb6zzk. Notes and the mapping to Codesavory are in the codesavory-lasya repo, `inspiration/ecosystem-flywheel.md`.
 
 - On Lasya's second pass (10 Oct 2026): "This looks like an exact copy of Kickoff. I said it should have its own DNA. A score app with subscription and a website that sells servicing and digital tools aren't the same!" Share the language, not the layout.
 
