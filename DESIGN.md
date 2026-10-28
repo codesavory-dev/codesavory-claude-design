@@ -105,6 +105,8 @@ Hover shifts a fill one step; press scales to 0.97; disabled is 45% opacity. Foc
 
 Decisions settled while building products (ticked-first lists, search at the top, no autoplay, no "none listed", self-hosted assets, link previews, diagrams) are in `docs/product-learnings.md`. Read it before designing a new screen or page.
 
+How a web page is put together (header, hero, bands, footer, type roles, sizes, page formats, the appearance switch) is in `docs/site-dna.md`. Every Codesavory site follows it, so the pages read as one family while each keeps its own media, mark and words.
+
 ## Do and don't
 
 - Do give the countdown the biggest type. Don't bury it in equal-weight stats.

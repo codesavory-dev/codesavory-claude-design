@@ -140,3 +140,9 @@ Learned while building and reworking the Kickoff marketing site between 7 and 10
 ## Kinema (browser tool, kinema.codesavory.dev)
 
 61. **The live render is the landing page's hero.** Kinema is a tool, so its page is one line, one live WebGPU render and one call to action, not a studio page (rule 36). The render runs on the visitor's GPU, sits on `canvas-ground` in both themes, and its spectral colour never leaks into the UI. The accent is the serif flourish; buttons are `brand`. (Owner, 22 Oct 2026: product named Kinema, "Kinema, by Lasya"; landing like Magic Patterns with something people can try on the web.)
+
+## Kinema landing (owner, 27 Oct 2026)
+- One hero only: the notarized cloth reveal export. The live prism and its sliders came off the landing; the tool lives at /try.
+- The header credit reads "by Lasya Studios" with the Lasya ribbon mark, linking to the Lasya site. On Kinema the mark's seed takes the text colour, since the accent is spent on the headline flourish. The Kinema prism icon sits before the wordmark.
+- The landing sells with measured facts, Hearth style: an experience row, a look match against Blender with the measured SSIM and the renders, a "how it connects" grid, the four stages with today versus planned, and a Made with Kinema gallery that opens with the beta. Numbers come only from release checks or real measurements.
+- Third-party products appear as monogram badges, not official logos, with a trademark line in the footer. Renders from Houdini Apprentice are never published (non-commercial licence).

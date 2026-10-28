@@ -20,7 +20,7 @@ This folder is the shared design language for every project under ~/Devel/Claude
 
 ## Product learnings
 
-Read `docs/product-learnings.md` and `docs/material-language.md` before designing any page or screen. When the owner makes a design decision in any project, add it to `docs/product-learnings.md` in the same session.
+Read `docs/product-learnings.md`, `docs/material-language.md` and `docs/site-dna.md` before designing any page or screen. `site-dna.md` is the shared page skeleton (header, hero, bands, footer, type roles, sizes, formats); follow it on every web page. When the owner makes a design decision in any project, add it to `docs/product-learnings.md` in the same session.
 
 ## References
 
